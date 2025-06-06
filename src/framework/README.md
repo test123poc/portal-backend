@@ -3,7 +3,7 @@
 All projects within the framework directory are built and provided as NuGet packages.
 
 Please do not add direct references to any framework project which is not in the framework directory
-
+b
 ## Package Configuration
 
 Each package's configuration is defined in its .csproj file. You can refer to a package's .csproj file or consult the [Microsoft Documentation](https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices#package-metadata) for guidance.
